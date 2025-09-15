@@ -14,7 +14,7 @@ Colorectal cancer (CRC) imposes a significant global health burden. Personalized
 
 | Experiment Dataset | Origin           | Remove similarity <40% |  Train (80%)    | Test (20%)    |
 |--------------------|------------------|------------------------|-----------------|---------------|
-| Neo antigen        | 754              | 295                    | 2393            | 59            |
+| Neo antigen        | 754              | 295                    | 236            | 59            |
 | General antigen    | 6226             | 307                    | 598             | 62            |
 
 | RAG Database       | Origin           | Remove similarity <40%|
